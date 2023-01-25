@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Xk/7sUP85qBpZApQx76unmzKp6LfxJ+cwvEHfS82NIGiFnASOFSXPqeL4OnDXuXRKe+NKHAkI3OTXfKvFE2hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erick\\source\\repos\\Win22 CSharp\\Win22 CSharp\\Win22 CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

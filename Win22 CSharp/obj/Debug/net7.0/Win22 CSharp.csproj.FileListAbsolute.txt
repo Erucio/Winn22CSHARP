@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\bin\Debug\net7.0\Win22 CSharp.exe
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\bin\Debug\net7.0\Win22 CSharp.deps.json
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\bin\Debug\net7.0\Win22 CSharp.runtimeconfig.json
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\bin\Debug\net7.0\Win22 CSharp.dll
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\bin\Debug\net7.0\Win22 CSharp.pdb
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.AssemblyInfo.cs
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.dll
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\refint\Win22 CSharp.dll
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.pdb
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.genruntimeconfig.cache
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\ref\Win22 CSharp.dll
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\erick\source\repos\Win22 CSharp\Win22 CSharp\obj\Debug\net7.0\Win22 CSharp.csproj.CopyComplete
