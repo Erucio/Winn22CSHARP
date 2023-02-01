@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Win22 CSharp", "Win22 CSharp\Win22 CSharp.csproj", "{AD48E862-95D8-46BC-BBCD-6E871B78A3C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{73C13E16-8CDE-4B64-A27F-F8A21350852D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{73C13E16-8CDE-4B64-A27F-F8A21350852D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win22 CSharp.Tests_xUnit", "Win22 CSharp.Tests\Win22 CSharp.Tests_xUnit.csproj", "{206CBFD8-0664-440B-BDE8-FA60C4DBD9B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{73C13E16-8CDE-4B64-A27F-F8A21350852D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73C13E16-8CDE-4B64-A27F-F8A21350852D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73C13E16-8CDE-4B64-A27F-F8A21350852D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206CBFD8-0664-440B-BDE8-FA60C4DBD9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206CBFD8-0664-440B-BDE8-FA60C4DBD9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206CBFD8-0664-440B-BDE8-FA60C4DBD9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206CBFD8-0664-440B-BDE8-FA60C4DBD9B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

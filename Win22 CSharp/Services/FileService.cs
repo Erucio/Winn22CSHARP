@@ -1,8 +1,9 @@
 ﻿
 namespace Win22_CSharp.Services
 {
-    internal class FileService
+    public class FileService
     {
+        public string FilePath { get; set; } = string.Empty;
 
         public void Save(string FilePath, string content)
         {
