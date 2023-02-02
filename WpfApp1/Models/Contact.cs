@@ -11,9 +11,5 @@ namespace Win22_CSharp.Models
         public string Address { get; set; } = null!;
         public string DisplayName => $"{FirstName} {LastName}";
 
-        public static implicit operator List<object>(Contact? v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

@@ -3,7 +3,7 @@ namespace Win22_CSharp.Services
 {
     public class FileService
     {
-        public string FilePath { get; set; } = string.Empty;
+        public string FilePath { get; set; } = null!;
 
         public void Save(string FilePath, string content)
         {
